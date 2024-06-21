@@ -7,9 +7,11 @@ div {
 .Main {
     text-align: center;
     height: 60px; width: 150px;
+    background-color: lightcoral;
 }
 .Sub {
     width: 200px;
     display: inline-block;
     margin: 50px;
+    background-color: tan;
 }
